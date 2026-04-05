@@ -8,15 +8,17 @@
 
 ## 🚀 Focus
 
-Logic and usability
+<p align="center">
+  Logic and usability
 
-```txt
-- Minecraft systems and mechanics
-- Backend services
-- Automation and chatbots
-- Scalable architecture
-```
 
+  ```txt
+  - Minecraft systems and mechanics
+  - Backend services
+  - Automation and chatbots
+  - Scalable architecture
+  ```
+</p>
 ---
 
 ## 🛠 Stack
