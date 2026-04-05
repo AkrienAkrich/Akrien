@@ -13,7 +13,7 @@
 
 
   ```txt
-  - Minecraft systems and mechanics
+  - Application of higher mathematics in game systems
   - Backend services
   - Automation and chatbots
   - Scalable architecture
