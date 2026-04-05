@@ -1,40 +1,48 @@
 <h1 align="center">AkrienDiverse</h1>
 
 <p align="center">
-  Minecraft Mods/Plugins • Backend • Python • UI • Chat Bots
+  minecraft developer • backend • python • bots • ui
 </p>
 
 ---
 
-## 🧩 Обо мне
+## 🧩 обо мне
 
-Я занимаюсь разработкой серверных и игровых систем, пишу автоматизацию, создаю чат-ботов и собираю аккуратные интерфейсы.  
-Больше всего интересны:
-
-- системы и механики для Minecraft
-- backend на Python
-- автоматизация и чат-боты
-- минималистичный UI и удобная логика
+разрабатываю игровые и серверные системы, автоматизацию и чат-ботов
+делаю упор на логику и удобство использования
 
 ---
 
-## ⚙️ Мой стек
+## ⚙️ стек
 
-### Языки и технологии
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,docker,git" />
 </p>
 
-### Основной фокус
-- **Minecraft / Skript** — кастомные механики, системы, логика предметов, навыки
-- **Backend** — API, базы данных
-- **Bots** — чат-боты, интеграции, пользовательская логика
+```txt
+minecraft / skript  ▸ механики, системы, логика
+backend            ▸ api, базы данных
+bots               ▸ чат-боты, автоматизация
+```
 
 ---
 
-## 📊 GitHub статистика
+## 🚀 фокус
+
+```txt
+▸ системы и механики minecraft
+▸ backend-сервисы
+▸ автоматизация и боты
+▸ чистая и масштабируемая архитектура
+```
+
+---
+
+## 📊 статистика
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=AkrienAkrich&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkrienAkrich&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa" />
 </p>
+consistency > motivation
+```
