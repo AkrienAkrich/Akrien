@@ -6,26 +6,26 @@
 
 ---
 
-## 🧩 Обо мне
+## 🧩 About me
 
-Разрабатываю игровые и серверные системы, автоматизацию и чат-ботов
+Develop game and server systems, automation, and chatbots.
 
-Делаю упор на логику и удобство использования
+Focus on logic and usability
 
 ---
 
-## 🚀 Фокус
+## 🚀 Focus
 
 ```txt
-- Системы и механики minecraft
-- Backend-сервисы
-- Автоматизация и чат-боты
-- Масштабируемая архитектура
+- Minecraft systems and mechanics
+- Backend services
+- Automation and chatbots
+- Scalable architecture
 ```
 
 ---
 
-## 🛠 Стэк
+## 🛠 Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,docker,git,vscode,idea,pycharm,mysql,sqlite" />
