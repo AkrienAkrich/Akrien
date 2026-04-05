@@ -28,7 +28,7 @@
 ## 🛠 Стэк
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,docker,git,vscode,idea,pycharm,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,java,docker,git,vscode,idea,pycharm,mysql,sqlite" />
 </p>
 
 <p align="center">
