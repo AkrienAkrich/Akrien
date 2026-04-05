@@ -1,19 +1,20 @@
 <h1 align="center">AkrienDiverse</h1>
 
 <p align="center">
-  minecraft developer • backend • python • bots • ui
+  Minecraft developer • Backend • Python • Bots • UI
 </p>
 
 ---
 
-## 🧩 обо мне
+## 🧩 Обо мне
 
-разрабатываю игровые и серверные системы, автоматизацию и чат-ботов
-делаю упор на логику и удобство использования
+Разрабатываю игровые и серверные системы, автоматизацию и чат-ботов
+
+Делаю упор на логику и удобство использования
 
 ---
 
-## ⚙️ стек
+## ⚙️ Стек
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,docker,git" />
@@ -27,7 +28,7 @@ bots               ▸ чат-боты, автоматизация
 
 ---
 
-## 🚀 фокус
+## 🚀 Фокус
 
 ```txt
 ▸ системы и механики minecraft
@@ -38,7 +39,7 @@ bots               ▸ чат-боты, автоматизация
 
 ---
 
-## 📊 статистика
+## 📊 Статистика
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=AkrienAkrich&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" />
