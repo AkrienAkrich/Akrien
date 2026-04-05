@@ -6,15 +6,9 @@
 
 ---
 
-## 🧩 About me
-
-Develop game and server systems, automation, and chatbots.
-
-Focus on logic and usability
-
----
-
 ## 🚀 Focus
+
+Logic and usability
 
 ```txt
 - Minecraft systems and mechanics
